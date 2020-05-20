@@ -20,7 +20,7 @@ The list has been updated in `2020`.
 | <img src="c.png" width="25px" />      | Full-stack | **NDC Oslo** | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/no.svg" width="13px"/> Oslo, Norway | 8-12 Jul 2020 | 400 – 1000€ | <a href="https://ndcoslo.com"><img src="https://img.icons8.com/metro/50/000000/external-link.png" width="13px"/></a> |
 | <img src="d.png" width="25px" />      | Full-stack | **Codemotion Rome** | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/> Milan, Italy | 27-28 Nov 2020 | 60 – 160€ | <a href="https://events.codemotion.com/conferences/rome/2020/"><img src="https://img.icons8.com/metro/50/000000/external-link.png" width="13px"/></a> |
 
-### Still in doubt?
+**Still in doubt?**
 
-Check out the ultimate developer conference list **[dev.events](https://dev.events)**
+Check out the ultimate developer conference list **[dev.events](https://dev.events)**.
 
